@@ -1,0 +1,43 @@
+
+
+.first-page{
+    background-color: whitesmoke;
+    display: flex;
+}
+
+.introduce-text {
+    width: 40%;
+    height: 800px;
+    background-color: whitesmoke;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.detail-text {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.introduce-image {
+    width: 60%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.self-image {
+    background-color: whitesmoke;
+    width: 800px;
+    height: 600px;
+    border: 10px solid grey;
+    border-radius: 20px;
+    opacity: 0.1;
+}
+
+
+

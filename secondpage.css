@@ -1,0 +1,44 @@
+.two-page {
+    background-color: grey;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+
+.my-speech {                
+    width: 800px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    font-size: 45px;
+}
+
+
+.two-bottom{
+    background-color: grey;
+    width: 1500px;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.my-career,
+.my-certification {
+    width: 700px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;                  
+    margin-top: 100px;
+    margin-right: 80px;
+}
+
+.my-text {
+    font-size: 40px;
+}
